@@ -102,7 +102,7 @@ window.addEventListener('scroll', animateSkills);
 
     // Typed.js Effect
     new Typed(".typing-text", {
-        strings: ["Software Engineer", "backend developer", "web designer", "android developer", "web developer"],
+        strings: ["Software Development", "Full Stack Development", "Web Development", "DevOps Development"],
         loop: true,
         typeSpeed: 50,
         backSpeed: 25,
